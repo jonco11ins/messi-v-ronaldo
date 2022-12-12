@@ -1,0 +1,1 @@
+The purpose of this folder was to compile data from an API to compare if Ronaldo or Messi is better.
